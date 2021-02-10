@@ -1,6 +1,8 @@
 
 
 //A. R. Ansari listed code to read line by line
+//gcc .\read_ClemFile_ReArrange_Print_CRC41_FLASH_16M_NVM_64K.c -o .\read_ClemFile_ReArrange_Print_CRC41_FLASH_16M_NVM_64K.exe
+
 //gcc read_ClemFile_Print_CRC41_FLASH_16M_NVM64K_R01.c -o read_ClemFile_Print_CRC41_FLASH_16M_NVM64K_R01
 //Ver 1.00 Rev1.00
 //For read clemfile nvm  64K and flash file 24bit 16MB
