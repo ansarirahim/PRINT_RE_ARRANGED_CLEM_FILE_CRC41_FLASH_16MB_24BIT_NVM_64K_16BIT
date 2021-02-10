@@ -1,0 +1,1 @@
+gcc .\read_ClemFile_ReArrange_Print_CRC41_FLASH_16M_NVM_64K.c -o .\read_ClemFile_ReArrange_Print_CRC41_FLASH_16M_NVM_64K.exe
