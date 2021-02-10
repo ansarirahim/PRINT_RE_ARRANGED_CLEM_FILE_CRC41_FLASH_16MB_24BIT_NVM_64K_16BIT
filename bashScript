@@ -1,0 +1,2 @@
+#!/bin/bash
+.\read_ClemFile_ReArrange_Print_CRC41_FLASH_16M_NVM_64.exe .\"$@" .\"$@".ext
